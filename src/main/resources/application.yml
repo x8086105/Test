@@ -1,0 +1,6 @@
+server:
+  port: 9988
+
+zwzt:
+   des:
+     key: zwzt201909121025
